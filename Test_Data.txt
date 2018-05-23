@@ -1,0 +1,899 @@
+Reg:		 N7QH
+Manu:		 ROBINSON HELICOPTER
+Type:		 R44
+ICAO:		 R44
+CN:		 30037
+Hex:		 A95142
+Owner:		 ROBINSON HELICOPTER CO
+Address:	 2901 AIRPORT DR, TORRANCE, CA, 905056115, US
+Date Reg:	 20180514
+Status:		 Aircraft registered to the manufacturer under their Dealer Certificate
+
+Reg:		 N58LK
+Manu:		 HAWKER BEECHCRAFT CORP
+Type:		 G58
+ICAO:		 BE58
+CN:		 TH-2365
+Hex:		 A77493
+Owner:		 TENNESSEE AVIATION SERVICES LLC
+Address:	 PO BOX 4005, SEVIERVILLE, TN, 378644005, US
+Date Reg:	 20180514
+Status:		 Valid Registration
+
+Reg:		 N90VT
+Manu:		 THOMAS J SPENCER
+Type:		 RV-10
+CN:		 41675
+Hex:		 AC6EC0
+Owner:		 SPENCER THOMAS J
+Address:	 836 SPENCER FARM RD, VERGENNES, VT, 054914422, US
+Date Reg:	 20180514
+Status:		 Valid Registration
+
+Reg:		 N91AZ
+Manu:		 CESSNA
+Type:		 182Q
+ICAO:		 C182
+CN:		 18265784
+Hex:		 AC946A
+Owner:		 FRESH AIRCRAFT SALES LLC
+Address:	 2818 PADDOCK LN, VILLA HILLS, KY, 410173655, US
+Date Reg:	 20180514
+Status:		 Valid Registration
+
+Reg:		 N120SB
+Manu:		 GULFSTREAM AEROSPACE
+Type:		 G-IV
+ICAO:		 GLF4
+CN:		 1462
+Hex:		 A05544
+Owner:		 HRS AIRCRAFT LLC
+Address:	 909 THIRD AVE 16TH FLOOR, NEW YORK, NY, 10022, US
+Date Reg:	 20180514
+Status:		 Valid Registration
+
+Reg:		 N148WT
+Manu:		 WATSON TERRY F
+Type:		 CRUISER
+CN:		 CH75-10755
+Hex:		 A0C26E
+Owner:		 WATSON TERRY F
+Address:	 6931 CADET AVE, FORT MYERS, FL, 339057638, US
+Date Reg:	 20180514
+Status:		 Valid Registration
+
+Reg:             N2100D
+Manu:            BEECH
+Type:            76
+ICAO:            BE76
+CN:              ME-41
+Hex:             A1BBDE
+Owner:           L A M CAPITAL MANAGEMENT LLC
+Old Address:     2655 ROBERT FOWLER WAY, SAN JOSE, CA, 951481016, US
+New Address:     30 N GOULD ST STE 7381, SHERIDAN, WY, 828016362, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N2116T
+Manu:            PIPER
+Type:            PA-28R-200
+ICAO:            P28R
+CN:              28R-7135061
+Hex:             A1C075
+Owner:           SIKORA JULIEANN H
+Old Address:     13901 OLIVE VIEW LN UNIT 18, SYLMAR, CA, 913427506, US
+New Address:     13650 FENTON AVE, SYLMAR, CA, 913422278, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N2195Y
+Manu:            BOUCHER CARL G
+Type:            SIX CHUTER SR7XL
+ICAO:            ULAC
+CN:              2000 SR7XL 2470
+Hex:             A1DE0F
+Owner:           THUSS MICHAEL G
+Old Address:     4213 MENASHA AVE, MANITOWOC, WI, 542201147, US
+New Address:     908 21ST ST, TWO RIVERS, WI, 542412719, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N2276D
+Manu:            EAGLE
+Type:            EAGLE X-TS
+CN:              010
+Hex:             A1FE30
+Owner:           N2276D LTD CO
+Old Address:     2016 MAIN ST # 808, HOUSTON, TX, 77002, US
+New Address:     2016 MAIN ST APT 808, HOUSTON, TX, 770028851, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N2520E
+Manu:            AERONCA
+Type:            7AC
+ICAO:            CH7A
+CN:              7AC-6102
+Hex:             A26149
+Owner:           REGISTRATION PENDING
+Old Address:     7582 SW VLAHOS DR, WILSONVILLE, OR, 970709496, US
+New Address:     PO BOX 187, GASTON, OR, 971190187, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N2614D
+Manu:            ROBINSON HELICOPTER
+Type:            R22 BETA
+ICAO:            R22
+CN:              0727
+Hex:             A2859C
+Owner:           REGISTRATION PENDING
+Old Address:     3511 SILVERSIDE RD, WILMINGTON, DE, 198104902, US
+New Address:     1201 N ORANGE ST STE 600, WILMINGTON, DE, 198011171, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N2940K
+Manu:            CESSNA
+Type:            180K
+ICAO:            C180
+CN:              18053136
+Hex:             A306B8
+Owner:           AEROHEAD AVIATION LLC
+Old Address:     PO BOX 190, RALLS, TX, 793570190, US
+New Address:     8812 N COUNTY ROAD 3240, IDALOU, TX, 793296227, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N2979R
+Manu:            PIPER
+Type:            PA-28R-200
+ICAO:            P28R
+CN:              28R-35366
+Hex:             A3131E
+Owner:           FIFTH FLOOR TRAVEL CONSULTANTS LLC
+Old Address:     26 BREWER PARK CIR, GRAND RAPIDS, MI, 495487212, US
+New Address:     1111 ALGER ST SE, GRAND RAPIDS, MI, 495073807, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N3026L
+Manu:            ROBINSON HELICOPTER COMPANY
+Type:            R44 II
+ICAO:            R44
+CN:              11798
+Hex:             A329F5
+Owner:           BCMC LLC
+Old Address:     755 E 4TH AVE, SALT LAKE CITY, UT, 841033871, US
+New Address:     121 WISCONSIN AVE STE 101, WHITEFISH, MT, 599372304, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N3395R
+Manu:            CESSNA
+Type:            182L
+ICAO:            C182
+CN:              18258695
+Hex:             A3BA55
+Owner:           REGISTRATION PENDING
+Old Address:     PO BOX 323, FLORA VISTA, NM, 874150323, US
+New Address:     PO BOX 534, OSCEOLA, IA, 502130534, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N3531N
+Manu:            PIPER
+Type:            J3C-65
+ICAO:            J3
+CN:              22762
+Hex:             A3F27A
+Owner:           REGISTRATION PENDING
+Old Address:     4521 PGA BLVD STE 294, PALM BEACH GARDENS, FL, 334183997, US
+New Address:     15870 LINDBERGH LN, WELLINGTON, FL, 334148312, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N3652L
+Manu:            CESSNA
+Type:            172G
+ICAO:            C172
+CN:              17253821
+Hex:             A42188
+Owner:           JBM AVIATION LLC
+Old Address:     108 S WASHINGTON ST, MC LEANSBORO, IL, 628591147, US
+New Address:     110 S WASHINGTON ST, MC LEANSBORO, IL, 628591147, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N3693N
+Manu:            PIPER
+Type:            PA-12
+ICAO:            PA12
+CN:              12-1943
+Hex:             A43089
+Owner:           REGISTRATION PENDING
+Old Address:     16192 COASTAL HWY, LEWES, DE, 199583608, US
+New Address:     4746 E 1100 N, SYRACUSE, IN, 465677238, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N3695M
+Manu:            PIPER
+Type:            PA-28-181
+ICAO:            P28A
+CN:              28-7890323
+Hex:             A430CE
+Owner:           REGISTRATION PENDING
+Old Address:     28 HERON POINT RD, RINDGE, NH, 034615891, US
+New Address:     1000 SW 5TH AVE, MIAMI, FL, 331303805, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N3904M
+Manu:            PIPER
+Type:            PA-12
+ICAO:            PA12
+CN:              12-2803
+Hex:             A485B9
+Owner:           SULTE RANDAL
+Old Address:     612 WOODWARD RD, MENDON, VT, 057016830, US
+New Address:     2330 CANARY CT, ANCHORAGE, AK, 995151401, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N4199U
+Manu:            CESSNA
+Type:            150D
+ICAO:            C150
+CN:              15060199
+Hex:             A4F935
+Owner:           REGISTRATION PENDING
+Old Address:     1800 ROOKS RD, POTTER, KS, 66077, US
+New Address:     1300 SE 7TH AVE, POMPANO BEACH, FL, 330609422, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N4570K
+Manu:            CESSNA
+Type:            P210N
+ICAO:            C210
+CN:              P21000220
+Hex:             A58E7F
+Owner:           DAN HOWARD AIRCRAFT SALES LLC
+Old Address:     3148 ARNOLD AVE, SALINA, KS, 674018106, US
+New Address:     9061 AIRPORT WAY, TULSA, OK, 741324010, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N4920Y
+Manu:            SOCATA
+Type:            TBM 700
+ICAO:            TBM7
+CN:              169
+Hex:             A619F5
+Owner:           NEWARK BUILDING SUPPLY LLC
+Old Address:     229 HUBER VILLAGE BLVD STE 100, WESTERVILLE, OH, 430818075, US
+New Address:     500 S FRONT ST FL 10TH, COLUMBUS, OH, 432157619, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N5404N
+Manu:            BOEING
+Type:            B75N1
+ICAO:            ST75
+CN:              75-7247
+Hex:             A6DADD
+Owner:           GOLD CAP LLC
+Old Address:     6 CAMBRIDGE DR, OAK BROOK, IL, 605231705, US
+New Address:     4871 AVIATOR LN NW, BREMERTON, WA, 983129573, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N5497X
+Manu:            PIPER
+Type:            J3C-65
+ICAO:            J3
+CN:              14088
+Hex:             A6FCBE
+Owner:           HUBBARD STEVEN H
+Old Address:     206 FERGUSON AVE, ELIZABETHTON, TN, 376433045, US
+New Address:     654 WILBUR DAM RD, ELIZABETHTON, TN, 376435416, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N5712F
+Manu:            PIPER
+Type:            PA-28-140
+ICAO:            P28A
+CN:              28-24925
+Hex:             A754C4
+Owner:           CAMERON STEVEN ANDREW
+Old Address:     5658 HARMONY BND, BRASELTON, GA, 305171727, US
+New Address:     28215 POPPY DR, WILLITS, CA, 954908891, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N5959A
+Manu:            CIRRUS DESIGN CORP
+Type:            SR20
+ICAO:            SR20
+CN:              1526
+Hex:             A7B38E
+Owner:           CARDINAL 177B LLC
+Old Address:     3511 SILVERSIDE RD STE 105, WILMINGTON, DE, 198104902, US
+New Address:     24300 S TAMIAMI TRL, BONITA SPRINGS, FL, 341347047, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N5971
+Manu:            CIRRUS DESIGN CORP
+Type:            SR22
+ICAO:            SR22
+CN:              3900
+Hex:             A7B9E3
+Owner:           VCD FUN FLYING LLC
+Old Address:     1931 WOODBURY AVE # 213, PORTSMOUTH, NH, 038013219, US
+New Address:     1465 WOODBURY AVE # 815, PORTSMOUTH, NH, 038013210, US
+Date Reg:        20180514
+Status:          Second Notice for Registration Renewal
+
+Reg:             N5987Q
+Manu:            MOONEY
+Type:            M20E
+ICAO:            M20P
+CN:              853
+Hex:             A7BE7B
+Owner:           HARDESTY WILLIAM A
+Old Address:     PO BOX 141, AGUILA, AZ, 853200141, US
+New Address:     4222 DEL MAR AVE, SAN DIEGO, CA, 921073640, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6292U
+Manu:            MOONEY
+Type:            M20C
+ICAO:            M20P
+CN:              2131
+Hex:             A83A5D
+Owner:           SALE REPORTED
+Old Address:     202 STRATFORD LN, ENTERPRISE, AL, 363308140, US
+New Address:     1776 BROADWAY APT 2114, DENVER, CO, 802023959, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N6332D
+Manu:            CESSNA
+Type:            172N
+ICAO:            C172
+CN:              17272720
+Hex:             A84B83
+Owner:           HASTINGS STEPHEN J
+Old Address:     4700 OLD INTERNATIONAL AIRPORT RD, ANCHORAGE, AK, 995021020, US
+New Address:     575 W JACK FISH RD, WASILLA, AK, 996540302, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6395Q
+Manu:            MOONEY
+Type:            M20F
+ICAO:            M20P
+CN:              670478
+Hex:             A86241
+Owner:           PETERSON GLENN W
+Old Address:     40 CAMINO MONTE SOL, ALAMO, CA, 945071422, US
+New Address:     2267 LAVA RIDGE CT STE 210, ROSEVILLE, CA, 956614276, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6574D
+Manu:            CESSNA
+Type:            172N
+ICAO:            C172
+CN:              17272874
+Hex:             A8A9A3
+Owner:           COOK JAMES
+Old Address:     13745 COUNTY ROAD 114, CARR, CO, 806129005, US
+New Address:     3519 W COUNTY ROAD 14, LOVELAND, CO, 805379033, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6627N
+Manu:            TAYLORCRAFT
+Type:            BC12-D
+ICAO:            TAYB
+CN:              3-13018
+Hex:             A8BF01
+Owner:           DANDURAN LARRY D
+Old Address:     PO BOX 42, AGAR, SD, 575200042, US
+New Address:     1754 67TH AVE NE, NEW ROCKFORD, ND, 583568763, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6694G
+Manu:            CESSNA
+Type:            150L
+ICAO:            C150
+CN:              15072194
+Hex:             A8D893
+Owner:           CHATAS JOHN W
+Old Address:     43200 LOCHRISEN WAY APT 3009, NOVI, MI, 483755411, US
+New Address:     1443 W GREENFIELD CT, ANN ARBOR, MI, 481082781, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N6705S
+Manu:            CESSNA
+Type:            150H
+ICAO:            C150
+CN:              15067505
+Hex:             A8DED0
+Owner:           REGISTRATION PENDING
+Old Address:     2760 47TH ST E, INVER GROVE HEIGHT, MN, 55076, US
+New Address:     315 DULUTH AVE N, THIEF RIVER FALLS, MN, 567011837, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N6848F
+Manu:            CESSNA
+Type:            150F
+ICAO:            C150
+CN:              15063448
+Hex:             A91589
+Owner:           REGISTRATION PENDING
+Old Address:     1610 S CHESTNUT ST, LUFKIN, TX, 759015732, US
+New Address:     1099 AN COUNTY ROAD 1213, GRAPELAND, TX, 758444648, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N6974V
+Manu:            MOONEY
+Type:            M20F
+ICAO:            M20P
+CN:              22-1341
+Hex:             A947AF
+Owner:           REGISTRATION PENDING
+Old Address:     1556 TIMBER TRACE DR, SAINT AUGUSTINE, FL, 320920757, US
+New Address:     14210 LOVERS KEY LN, ORLANDO, FL, 328284800, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N7192Y
+Manu:            PIPER
+Type:            PA-30
+ICAO:            PA30
+CN:              30-216
+Hex:             A9A031
+Owner:           SALE REPORTED
+Old Address:     10129 ROLLING HILLS CT, BENBROOK, TX, 761263021, US
+New Address:     UNKNOWN, XXX, OK, 73125, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N7375J
+Manu:            PIPER
+Type:            PA-28-140
+ICAO:            P28A
+CN:              28-24731
+Hex:             A9E81C
+Owner:           FOUR SEASONS AVIATION
+Old Address:     185 TRIBAL ROAD 90 SW, ALBUQUERQUE, NM, 871058009, US
+New Address:     2220 VIA GRANADA PL NW, ALBUQUERQUE, NM, 871045500, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N7516P
+Manu:            PIPER
+Type:            PA-24-250
+ICAO:            PA24
+CN:              24-2717
+Hex:             AA20F8
+Owner:           REGISTRATION PENDING
+Old Address:     10 S RIVERSIDE PLAZA STE 1470, CHICAGO, IL, 60606, US
+New Address:     2309 W COUNTRY GABLES DR, PHOENIX, AZ, 850235024, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N7544R
+Manu:            PIPER
+Type:            PA-28-140
+ICAO:            P28A
+CN:              28-22339
+Hex:             AA2BD9
+Owner:           REYES AVIATION INC
+Old Address:     4698 PEMBROOK PL, ORLANDO, FL, 328117252, US
+New Address:     1232 CHOPTANK RD, MIDDLETOWN, DE, 197099038, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N7573G
+Manu:            CESSNA
+Type:            172L
+ICAO:            C172
+CN:              17259273
+Hex:             AA36D2
+Owner:           REGISTRATION PENDING
+Old Address:     2162 E LAKE DR, UNION, NE, 684552601, US
+New Address:     22311 COUNTY ROAD 36, ARLINGTON, NE, 680025673, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N7795T
+Manu:            CESSNA
+Type:            172A
+ICAO:            C172
+CN:              47395
+Hex:             AA8D8F
+Owner:           KLABUNDE JAMIE R
+Old Address:     PO BOX 308, ALTO, NM, 883120308, US
+New Address:     1258 FLASH CIR, LULING, TX, 786484123, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N7823G
+Manu:            CESSNA
+Type:            172L
+ICAO:            C172
+CN:              17259523
+Hex:             AA9ABC
+Owner:           AMERICAN PATROLS INC
+Old Address:     2311 AUBURN PL, MIDLAND, TX, 797054904, US
+New Address:     10306 S COUNTY ROAD 1210, MIDLAND, TX, 797067820, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N7937T
+Manu:            CESSNA
+Type:            175A
+ICAO:            C175
+CN:              56637
+Hex:             AAC689
+Owner:           FORD ETHAN G
+Old Address:     PO BOX 231, LOGANDALE, NV, 890210231, US
+New Address:     PO BOX 3248, BETHEL, AK, 995593248, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N8145Q
+Manu:            CESSNA
+Type:            414
+ICAO:            C414
+CN:              414-0045
+Hex:             AB1B4E
+Owner:           WESTERN NEBRASKA COMMUNITY COLLEGE
+Address:         1601 E 27TH ST, SCOTTSBLUFF, NE, 693611815, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N8328H
+Manu:            ROBINSON HELICOPTER
+Type:            R44
+ICAO:            R44
+CN:              0203
+Hex:             AB6340
+Owner:           BILLS HELICOPTER SERVICE LLC
+Address:         4068 BUCK WOODS RD, WOODLAWN, VA, 243814818, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N8379X
+Manu:            CESSNA
+Type:            172C
+ICAO:            C172
+CN:              17248879
+Hex:             AB7604
+Owner:           REGISTRATION PENDING
+Old Address:     831 QUEENS OAK, SAN ANTONIO, TX, 782583645, US
+New Address:     1109 DARA CAY DR, KISSIMMEE, FL, 347416714, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N8441R
+Manu:            PIPER
+Type:            PA-28-140
+ICAO:            P28A
+CN:              28-22324
+Hex:             AB9140
+Owner:           SALE REPORTED
+Old Address:     32296 BIRD ROAD, TRACY, CA, 95304, US
+New Address:     333 W JACK LONDON BLVD #223, LIVERMORE, CA, 94551, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N8568Z
+Manu:            BOEING
+Type:            737-800
+ICAO:            B738
+CN:              64248
+Hex:             ABC12A
+Owner:           SOUTHWEST AIRLINES CO
+Old Address:     1901 OAKSDALE AVE SW, RENTON, WA, 980572623, US
+New Address:     2702 LOVE FIELD DR # HDQ-4GC, DALLAS, TX, 752351908, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N8580B
+Manu:            CESSNA
+Type:            172
+ICAO:            C172
+CN:              36280
+Hex:             ABC76A
+Owner:           REGISTRATION PENDING
+Old Address:     3503 GREENSBURG RD, NORTH CANTON, OH, 447201480, US
+New Address:     9067 SKYPARK DR, WADSWORTH, OH, 442819515, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N8648V
+Manu:            BELLANCA
+Type:            8GCBC
+ICAO:            BL8
+CN:              16575
+Hex:             ABE137
+Owner:           SONDAY TERRANCE P
+Old Address:     XXX, OKLAHOMA CITY, OK, 74135, US
+New Address:     7890 EAGLE LN, SPRING, TX, 773793185, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N9020X
+Manu:            CESSNA
+Type:            182D
+ICAO:            C182
+CN:              18253420
+Hex:             AC7908
+Owner:           REGISTRATION PENDING
+Old Address:     15793 SR 279, OAK HILL, OH, 45656, US
+New Address:     16405 QUINCY ST, HOLLAND, MI, 494245830, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N9040A
+Manu:            ADAMS BALLOON
+Type:            L D-S
+ICAO:            BALL
+CN:              022
+Hex:             AC8061
+Owner:           DEPEW MICHAEL P
+Old Address:     52 RIVER LEDGE DR, GOFFSTOWN, NH, 030456628, US
+New Address:     23 HAMPSHIRE DR APT E, NASHUA, NH, 030631927, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N9043J
+Manu:            PIPER
+Type:            PA-28-180
+ICAO:            P28A
+CN:              28-3074
+Hex:             AC80D2
+Owner:           SALE REPORTED
+Old Address:     2475 JEFFERSON ST, ALEXANDER CITY, AL, 350107438, US
+New Address:     1531 ELISE LN, AUBURN, AL, 368307297, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N9093L
+Manu:            CHAMPION
+Type:            7GCAA
+ICAO:            CH7B
+CN:              228-70
+Hex:             AC9367
+Owner:           MILLER DENNIS R
+Old Address:     69 WAGON RD, ALPINE, TX, 798301018, US
+New Address:     154 HIDDEN VALLEY AIRPARK, SHADY SHORES, TX, 762087332, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N9389L
+Manu:            CESSNA
+Type:            172P
+ICAO:            C172
+CN:              17276549
+Hex:             AD06FF
+Owner:           L A M CAPITAL MANAGEMENT LLC
+Old Address:     2513 CHERRY AVE, SAN JOSE, CA, 951254816, US
+New Address:     30 N GOULD ST STE 7381, SHERIDAN, WY, 828016362, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N9396V
+Manu:            MOONEY
+Type:            M20F
+ICAO:            M20P
+CN:              700020
+Hex:             AD0A56
+Owner:           HOUSTON FRED L
+Old Address:     3760 COTTAGE GROVE AVE, WATERFORD, MI, 483284307, US
+New Address:     675 AIRPORT RD, DUBLIN, GA, 310214428, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N9444L
+Manu:            AMERICAN AVIATION
+Type:            AA-1A
+ICAO:            AA1
+CN:              AA1A-0244
+Hex:             AD1EF3
+Owner:           SALE REPORTED
+Old Address:     2623 HILINE DR, BULVERDE, TX, 781631862, US
+New Address:     119 LYONS ST, FORT COLLINS, CO, 805212317, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N9630U
+Manu:            GRUMMAN AMERICAN AVN. CORP.
+Type:            AA-5
+ICAO:            AA5
+CN:              AA5-0830
+Hex:             AD69B6
+Owner:           TRIBBLE ROSE
+Address:         PO BOX 735, HALF MOON BAY, CA, 940190735, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N13437
+Manu:            CESSNA
+Type:            172M
+ICAO:            C172
+CN:              17262751
+Hex:             A08CEE
+Owner:           DYBERG MICHAEL DBA
+Old Address:     PO BOX 115, FRIDAY HARBOR, WA, 982500115, US
+New Address:     1500 E COLLEGE WAY STE A PMB 593, MOUNT VERNON, WA, 982735637, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N15476
+Manu:            PIPER
+Type:            PA-32-260
+ICAO:            PA32
+CN:              32-7300008
+Hex:             A0DC77
+Owner:           WINSLOW JOHN BRIAN
+Old Address:     119 34TH ST, DES MOINES, IA, 503124526, US
+New Address:     3036 N BIRCH AVE, CUMMING, IA, 500619305, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N20791
+Manu:            CESSNA
+Type:            182P
+ICAO:            C182
+CN:              18261207
+Hex:             A1AFB1
+Owner:           L A M CAPITAL MANAGEMENT LLC
+Old Address:     2513 CHERRY AVE, SAN JOSE, CA, 951254816, US
+New Address:     30 N GOULD ST STE 7381, SHERIDAN, WY, 828016362, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N32534
+Manu:            PIPER
+Type:            PA-28-180
+ICAO:            P28A
+CN:              28-7505069
+Hex:             A383C1
+Owner:           PLUMMER GREGORY
+Old Address:     1423 LINGO RD, LONOKE, AR, 720868485, US
+New Address:     333 LAFAYETTE AVE 19A, BROOKLYN, NY, 11238, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N36463
+Manu:            PIPER
+Type:            PA-32RT-300T
+ICAO:            P32T
+CN:              32R-7887044
+Hex:             A41E6E
+Owner:           OSMAN RICHARD C
+Old Address:     C/O KEN HARRISON, 2004 SPANISH TRAIL, ROANOKE, TX, 762626890, US
+New Address:     229 LIVE OAK LN, MYRTLE BEACH, SC, 295725628, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N36619
+Manu:            PIPER
+Type:            PA-28R-201
+ICAO:            P28R
+CN:              28R-7837286
+Hex:             A42533
+Owner:           N36619 LLC
+Old Address:     1058 FAIRFAX CIR W, BOYNTON BEACH, FL, 334368601, US
+New Address:     10982 DENOEU RD, BOYNTON BEACH, FL, 334724530, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N39546
+Manu:            PIPER
+Type:            PA-28-181
+ICAO:            P28A
+CN:              28-7890539
+Hex:             A4985F
+Owner:           L A M CAPITAL MANAGEMENT LLC
+Old Address:     2513 CHERRY AVE, SAN JOSE, CA, 951254816, US
+New Address:     30 N GOULD ST STE 7381, SHERIDAN, WY, 828016362, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N42094
+Manu:            CESSNA
+Type:            180J
+ICAO:            C180
+CN:              18052311
+Hex:             A4FF4F
+Owner:           MDN LLC
+Old Address:     PO BOX 854, DENTON, MT, 594300854, US
+New Address:     505 CEMETERY RD, PARK CITY, MT, 590639421, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N46336
+Manu:            INTERSTATE
+Type:            S-1B1
+ICAO:            S1
+CN:              159
+Hex:             A5A7A0
+Owner:           REGISTRATION PENDING
+Old Address:     615 W DENNING PL APT 602, CHICAGO, IL, 606142684, US
+New Address:     615 W DEMING PL APT 602, CHICAGO, IL, 606142684, US
+Date Reg:        20180514
+Status:          Registration pending
+
+Reg:             N48241
+Manu:            CESSNA
+Type:            152
+ICAO:            C152
+CN:              15283308
+Hex:             A5F305
+Owner:           PALICKI ANTHONY J
+Old Address:     325 COUNTESS RD NE, HUNTSVILLE, AL, 358106318, US
+New Address:     100 ANGELA RD, HUNTSVILLE, AL, 358061052, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N65658
+Manu:            CESSNA
+Type:            172P
+ICAO:            C172
+CN:              17275804
+Hex:             A8A62C
+Owner:           L A M CAPITAL MANAGEMENT LLC
+Old Address:     2513 CHERRY AVE, SAN JOSE, CA, 951254816, US
+New Address:     30 N GOULD ST STE 7381, SHERIDAN, WY, 828016362, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N72469
+Manu:            BELL
+Type:            UH-1H
+ICAO:            UH1
+CN:              68-16526
+Hex:             A9B5B4
+Owner:           SALE REPORTED
+Old Address:     939 JEFFERSON ST, MCKEESPORT, PA, 151321625, US
+New Address:     5128 FORSYTH COMMERCE RD, ORLANDO, FL, 328076297, US
+Date Reg:        20180514
+Status:          Sale reported
+
+Reg:             N73846
+Manu:            CESSNA
+Type:            172N
+ICAO:            C172
+CN:              17267717
+Hex:             A9EBC6
+Owner:           PINSON MICHAEL E
+Old Address:     PO BOX 242, HEADLAND, AL, 363450242, US
+New Address:     205 DUNBAR CT, DOTHAN, AL, 363057202, US
+Date Reg:        20180514
+Status:          Valid Registration
+
+Reg:             N79540
+Manu:            CESSNA
+Type:            172K
+ICAO:            C172
+CN:              17258160
+Hex:             AACD95
+Owner:           FUNK KATHRYN
+Old Address:     111 SW 5TH AVE STE 1500, PORTLAND, OR, 972043619, US
+New Address:     1216 HERITAGE ACRES BLVD, ROCKLEDGE, FL, 329554423, US
+Date Reg:        20180514
+Status:          Valid Registration
