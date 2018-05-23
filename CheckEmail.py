@@ -45,7 +45,7 @@ def read_email_from_gmail():
         print str(e)
 ORG_EMAIL   = "@gmail.com"
 FROM_EMAIL  = "nilezwalker" + ORG_EMAIL
-FROM_PWD    = "Serpent316"#str(input("pass"))
+FROM_PWD    = #str(input("pass"))
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT   = 993
 read_email_from_gmail()
